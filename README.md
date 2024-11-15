@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Murilo! 👋
 
-<!--
-**Murilo-Luciano/Murilo-Luciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm currently working at Grana Capital as a software engineer, building solutions for stock market investors.
 
-Here are some ideas to get you started:
+🧑‍💻 Feel free to explore my repositories and reach out to me anytime!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+    <summary>📫 How to reach me</summary>
+    <ul>
+        <li>Email: murilo.luciano123@gmail.com</li>
+        <li>LinkedIn: <a href="https://br.linkedin.com/in/murilo-luciano-aa88b51b0" target="_blank">https://br.linkedin.com/in/murilo-luciano-aa88b51b0</a></li> 
+    </ul>
+</details>
